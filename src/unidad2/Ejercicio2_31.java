@@ -3,7 +3,7 @@ package unidad2;
 public class Ejercicio2_31 {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.printf("\n numero cuadrado cubo");
 		System.out.printf("\n %6d, %6d, %6d",0,0*0,0*0*0);
 		System.out.printf("\n %6d, %6d, %6d",1,1*1,1*1*1);

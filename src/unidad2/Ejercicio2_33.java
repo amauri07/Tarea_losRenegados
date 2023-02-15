@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio2_33 {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		try (Scanner input = new Scanner(System.in)){
 			System.out.print("peso en Kilogramo: ");
 			double peso = input.nextDouble();
