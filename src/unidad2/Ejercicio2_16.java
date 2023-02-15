@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio2_16 {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		try (Scanner entrada= new Scanner(System.in)){
 			int num1;
 			int num2;
